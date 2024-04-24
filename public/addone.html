@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2</title>
+</head>
+<body>
+    <h1 id="index">Add one</h1>
+    <table>
+        <tr>
+            <td>
+                <a href="/getall.html">getall</a>
+            </td>
+            <td>
+                <a href="/getone.html">get one</a>
+            </td>
+            <td>
+                <a href="/addone.html">add one</a>
+            </td>
+            <td>
+                <a href="/update.html">update one</a>
+            </td>
+            <td>
+                <a href="/delete.html">delete one</a>
+            </td>
+        </tr>
+    </table>
+
+    <form action="/addone.html" method="post" id="addForm">
+        <label for="giveArtist">Give artist name</label>
+        <input type="text" id="giveArtist" name="artist" required>
+     </br>
+        <label for="giveAlbum">Give album name</label>
+        <input type="text" id="giveAlbum" name="album" required>
+    </br>
+        <label for="giveYear">Give release year</label>
+        <input type="number" id="giveYear" name="year" required>
+    </br>
+        <label for="giveCountry">Give country of origin</label>
+        <input type="text" id="giveCountry" name="country" required>
+    </br>
+        <button id=formBtn type="submit">Submit</button>
+    </form>
+    <p id="textBox"></p>
+    <table id="infoTable"></table>
+
+    
+
+    
+</body>
+<script src="js/addOne.js"></script>
+</html>

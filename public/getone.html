@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2</title>
+</head>
+<body>
+    <h1 id="index">Get one</h1>
+    <table>
+        <tr>
+            <td>
+                <a href="/getall.html">getall</a>
+            </td>
+            <td>
+                <a href="/getone.html">get one</a>
+            </td>
+            <td>
+                <a href="/addone.html">add one</a>
+            </td>
+            <td>
+                <a href="/update.html">update one</a>
+            </td>
+            <td>
+                <a href="/delete.html">delete one</a>
+            </td>
+        </tr>
+    </table>
+
+    <form action="submit" method="post" id="idForm">
+        <label for="giveID">Give ID</label>
+        <input type="text" id="giveID" name="giveID">
+    </form>
+
+    <p id="infoBox"></p>
+
+    <button id="jazz">Jazz</button>
+    <button id="rock">Rock</button>
+    
+    <table id="idTable"></table>
+
+</body>
+<script src="js/getOne.js"></script>
+</html>

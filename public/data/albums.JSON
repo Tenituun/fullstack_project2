@@ -1,0 +1,238 @@
+{
+    "albums": [
+      {
+        "artist": "Kamasi Washington",
+        "album_name": "The Epic",
+        "release_year": 2015,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Esperanza Spalding",
+        "album_name": "Emily's D+Evolution",
+        "release_year": 2016,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Hiromi Uehara",
+        "album_name": "Spark",
+        "release_year": 2016,
+        "country_of_origin": "Japan"
+      },
+      {
+        "artist": "GoGo Penguin",
+        "album_name": "A Humdrum Star",
+        "release_year": 2018,
+        "country_of_origin": "UK"
+      },
+      {
+        "artist": "Avishai Cohen",
+        "album_name": "Arvoles",
+        "release_year": 2019,
+        "country_of_origin": "Israel"
+      },
+      {
+        "artist": "Snarky Puppy",
+        "album_name": "Immigrance",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Melody Gardot",
+        "album_name": "Sunset in the Blue",
+        "release_year": 2020,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Tigran Hamasyan",
+        "album_name": "An Ancient Observer",
+        "release_year": 2017,
+        "country_of_origin": "Armenia"
+      },
+      {
+        "artist": "Ibrahim Maalouf",
+        "album_name": "S3NS",
+        "release_year": 2019,
+        "country_of_origin": "France"
+      },
+      {
+        "artist": "Jacob Collier",
+        "album_name": "Djesse Vol. 2",
+        "release_year": 2019,
+        "country_of_origin": "UK"
+      },
+      {
+        "artist": "Vijay Iyer Sextet",
+        "album_name": "Far from Over",
+        "release_year": 2017,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Shabaka and the Ancestors",
+        "album_name": "Wisdom of Elders",
+        "release_year": 2016,
+        "country_of_origin": "UK"
+      },
+      {
+        "artist": "Cécile McLorin Salvant",
+        "album_name": "Dreams and Daggers",
+        "release_year": 2017,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Ambrose Akinmusire",
+        "album_name": "Origami Harvest",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Gerald Clayton",
+        "album_name": "Happening: Live at The Village Vanguard",
+        "release_year": 2020,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Joey Alexander",
+        "album_name": "Eclipse",
+        "release_year": 2018,
+        "country_of_origin": "Indonesia"
+      },
+      {
+        "artist": "Takuya Kuroda",
+        "album_name": "Zigzagger",
+        "release_year": 2016,
+        "country_of_origin": "Japan"
+      },
+      {
+        "artist": "Ezra Collective",
+        "album_name": "You Can't Steal My Joy",
+        "release_year": 2019,
+        "country_of_origin": "UK"
+      },
+      {
+        "artist": "Theon Cross",
+        "album_name": "Fyah",
+        "release_year": 2019,
+        "country_of_origin": "UK"
+      },
+      {
+        "artist": "Brad Mehldau",
+        "album_name": "Finding Gabriel",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Kendrick Scott Oracle",
+        "album_name": "A Wall Becomes a Bridge",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Norah Jones",
+        "album_name": "Begin Again",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Makaya McCraven",
+        "album_name": "Universal Beings",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Snarky Puppy",
+        "album_name": "Culcha Vulcha",
+        "release_year": 2016,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Christian Scott aTunde Adjuah",
+        "album_name": "Ancestral Recall",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Kandace Springs",
+        "album_name": "Soul Eyes",
+        "release_year": 2016,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Trombone Shorty",
+        "album_name": "Parking Lot Symphony",
+        "release_year": 2017,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Cécile McLorin Salvant",
+        "album_name": "The Window",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Chris Potter",
+        "album_name": "Circuits",
+        "release_year": 2019,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Terence Blanchard",
+        "album_name": "Live",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Robert Glasper",
+        "album_name": "Covered",
+        "release_year": 2015,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Avishai Cohen Trio",
+        "album_name": "From Darkness",
+        "release_year": 2015,
+        "country_of_origin": "Israel"
+      },
+      {
+        "artist": "Makoto Ozone",
+        "album_name": "Jazz Impressions of Hollywood",
+        "release_year": 2019,
+        "country_of_origin": "Japan"
+      },
+      {
+        "artist": "Brad Mehldau Trio",
+        "album_name": "Seymour Reads the Constitution!",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Vijay Iyer Trio",
+        "album_name": "Break Stuff",
+        "release_year": 2015,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Esperanza Spalding",
+        "album_name": "Exposure",
+        "release_year": 2017,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "The Bad Plus",
+        "album_name": "Never Stop II",
+        "release_year": 2018,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Kenny Garrett",
+        "album_name": "Do Your Dance!",
+        "release_year": 2016,
+        "country_of_origin": "USA"
+      },
+      {
+        "artist": "Kris Bowers",
+        "album_name": "Heroes + Misfits",
+        "release_year": 2014,
+        "country_of_origin": "USA"
+      }
+    ]
+}
