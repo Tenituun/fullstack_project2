@@ -94,7 +94,7 @@ document.getElementById("updateForm").addEventListener("submit", function(event)
         return response.json();
     }).then((result) => {
         console.log("Item with the id: " + result._id + " updated succesfully");
-        // printData(result);
+        location.reload();
     }).catch((error) => {
         console.log(error);
     })
